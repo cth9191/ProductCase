@@ -1,0 +1,15 @@
+2024-10-24 09:54:21,639:INFO:Successfully loaded data from data_1 sheet.csv.
+2024-10-24 09:54:21,645:INFO:Data cleaning completed.
+2024-10-24 09:54:21,648:INFO:Win rates by pitch type calculated.
+2024-10-24 09:54:21,651:INFO:Disposition distribution by pitch calculated.
+2024-10-24 09:54:21,653:INFO:Engaged to win conversion rates calculated.
+2024-10-24 09:54:21,655:INFO:Funnel analysis completed.
+2024-10-24 09:54:21,657:INFO:Stakeholder analysis completed.
+2024-10-24 09:54:21,658:INFO:Owner engagement analysis completed.
+2024-10-24 09:54:21,658:INFO:Manager deferral analysis completed.
+2024-10-24 09:54:21,664:INFO:Multiple touch analysis completed.
+2024-10-24 09:54:21,666:INFO:Unique winning accounts analysis completed.
+2024-10-24 09:54:21,669:INFO:Success rates by combination analysis completed.
+2024-10-24 09:54:21,672:INFO:True success rate analysis completed.
+2024-10-24 09:54:21,727:INFO:Feature importance analysis completed.
+2024-10-24 09:54:21,733:INFO:Analysis summary written to 'analysis_summary.txt'.

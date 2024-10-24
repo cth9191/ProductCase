@@ -1,0 +1,262 @@
+
+Win Rates by Pitch:
+Pitch
+AI          14.62
+Operator     4.94
+Smooth       9.39
+
+Disposition Distribution by Pitch (%):
+Pitch     Disposition                  
+AI        Deferred to Other Stakeholder    11.70
+          Engaged                          30.41
+          No Interest                      57.89
+Operator  Deferred to Other Stakeholder    28.52
+          Engaged                          19.01
+          No Interest                      52.47
+Smooth    Deferred to Other Stakeholder    17.84
+          Engaged                          27.23
+          No Interest                      54.93
+
+Engaged to Win Conversion by Pitch (%):
+Pitch     Outcome
+AI        Loss       26.92
+          Open       30.77
+          Win        42.31
+Operator  Loss       16.00
+          Open       60.00
+          Win        24.00
+Smooth    Loss       27.59
+          Open       43.10
+          Win        29.31
+
+Total Engaged Conversations by Pitch:
+Person
+Manager     9.73
+Owner      57.07
+
+=== Conversion Funnel Analysis ===
+Detailed Funnel Analysis:
+Total Attempts: 655
+Connected: 647
+Engaged: 160
+Unique Wins: 36
+No Interest: 354
+No Interest Rate (from Connected): 54.71%
+Engaged Rate (from Connected): 24.73%
+Deferred to Other Stakeholder: 133
+Deferred to Other Stakeholder Rate (from Connected): 20.56%
+No Interest to Loss: 347
+No Interest to Loss Rate: 98.02%
+No Interest to Win: 7
+No Interest to Win Rate: 1.98%
+Engaged to Open: 71
+Engaged to Open Rate: 44.38%
+Engaged to Win: 51
+Engaged to Win Rate: 31.87%
+Engaged to Loss: 38
+Engaged to Loss Rate: 23.75%
+Deferred to Other Stakeholder to Open: 94
+Deferred to Other Stakeholder to Open Rate: 70.68%
+Deferred to Other Stakeholder to Loss: 39
+Deferred to Other Stakeholder to Loss Rate: 29.32%
+
+Drop-off Analysis:
+Failed Connections: 8 (1.22%)
+Lost at Disposition Stage: 487 (75.27%)
+Lost at Final Stage: 109 (68.12%)
+
+Stakeholder Response Patterns (%):
+Person   Disposition                  
+Manager  Deferred to Other Stakeholder    28.96
+         Engaged                           9.73
+         No Interest                      61.31
+Owner    Deferred to Other Stakeholder     2.44
+         Engaged                          57.07
+         No Interest                      40.49
+
+Engagement Rate by Stakeholder (%):
+Person
+Manager     9.73
+Owner      57.07
+
+=== Owner Engagement Analysis ===
+Total Owner engaged conversations: 117
+
+Outcomes when Owner is engaged:
+Outcome
+Open    59
+Win     35
+Loss    23
+
+Conversion rates when Owner is engaged (%):
+Outcome
+Open    50.43
+Win     29.91
+Loss    19.66
+
+Win rate by pitch type when Owner is engaged (%):
+Pitch
+AI          37.14
+Operator    21.88
+Smooth      30.00
+
+=== Manager Deferral Analysis ===
+Total Manager deferrals: 128
+
+Outcomes of Manager deferrals:
+Outcome
+Open    89
+Loss    39
+
+Outcome percentages for Manager deferrals (%):
+Outcome
+Open    69.53
+Loss    30.47
+
+=== Multiple Touch Analysis ===
+Accounts with multiple touches: 23
+
+Distribution of number of touches per account:
+count
+1    601
+2     18
+3      2
+4      3
+
+Most common disposition sequences:
+Disposition
+Engaged → Engaged                            11
+No Interest                                   3
+No Interest → Engaged                         2
+Engaged → Engaged → No Interest               2
+Engaged → Engaged → No Interest → Engaged     1
+
+Accounts with pitch changes: 2
+
+Outcomes after changing pitch strategy:
+Outcome
+Loss    1
+Win     1
+
+=== Unique Winning Accounts Analysis ===
+Total Unique Winning Accounts: 36
+
+Breakdown by Person Type:
+Count:
+Person
+Owner      18
+Manager    17
+
+Percentages (%):
+Person
+Owner      50.00
+Manager    47.22%
+
+Breakdown by Pitch Type:
+Count:
+Pitch
+AI          13
+Smooth      13
+Operator     9
+
+Percentages (%):
+Pitch
+AI          36.11
+Smooth      36.11
+Operator    25.00%
+
+Detailed Breakdown by Person and Pitch:
+Count:
+Person   Pitch   
+Manager  AI           9
+         Operator     6
+         Smooth       2
+Owner    AI           4
+         Operator     3
+         Smooth      11
+
+Percentages (%):
+Person   Pitch   
+Manager  AI          25.00
+         Operator    16.67
+         Smooth       5.56
+Owner    AI          11.11
+         Operator     8.33
+         Smooth      30.56%
+
+=== Success Rates by Combination Analysis (Eventual Wins) ===
+Success Rates for All Combinations (Based on Eventual Wins):
+                                                Success Rate (Eventual Win %)  Number of Attempts
+Person  Disposition                   Pitch                                                      
+Manager Engaged                       AI                                52.94                  17
+Owner   Engaged                       AI                                37.14                  35
+                                      Smooth                            30.00                  50
+Manager Engaged                       Operator                          27.78                  18
+                                      Smooth                            25.00                   8
+Owner   Engaged                       Operator                          21.88                  32
+Manager No Interest                   AI                                 4.55                  66
+                                      Smooth                             3.09                  97
+                                      Operator                           0.93                 108
+        Deferred to Other Stakeholder AI                                 0.00                  20
+                                      Operator                           0.00                  70
+                                      Smooth                             0.00                  38
+Owner   Deferred to Other Stakeholder Operator                           0.00                   5
+        No Interest                   AI                                 0.00                  33
+                                      Operator                           0.00                  30
+                                      Smooth                             0.00                  20
+
+=== True Success Rate Analysis ===
+Manager Success Rates (per 100 attempts):
+Total Attempts by Pitch:
+Pitch
+AI          101
+Operator    196
+Smooth      143
+
+Total Wins by Pitch:
+Pitch
+AI          10
+Operator     6
+Smooth       5
+
+Success Rate (%):
+Pitch
+AI          9.90
+Operator    3.06
+Smooth      3.50
+
+Owner Success Rates (per 100 attempts):
+Total Attempts by Pitch:
+Pitch
+AI          67
+Operator    67
+Smooth      68
+
+Total Wins by Pitch:
+Pitch
+AI          12
+Operator     7
+Smooth      13
+
+Success Rate (%):
+Pitch
+AI          17.91
+Operator    10.45
+Smooth      19.12
+
+=== Feature Importance Analysis ===
+Feature Importance Scores (higher = more important):
+Disposition_Engaged                          0.414934
+Disposition_No Interest                      0.258082
+Disposition_Deferred to Other Stakeholder    0.088329
+Person_Owner                                 0.062239
+Person_Manager                               0.053819
+Pitch_AI                                     0.053684
+Pitch_Operator                               0.040763
+Pitch_Smooth                                 0.028151
+
+=== Visualization Files Generated ===
+1. success_rates.png - Success rates by person type and pitch
+2. feature_importance.png - Top 10 most important features
+3. conversion_funnel.png - Overall conversion funnel
+4. disposition_distribution.png - Distribution of dispositions
