@@ -1,3 +1,3 @@
 # ProductCase
 
-See data_nalysis.py for the code (beware its ugly)
+See data_analysis.py for the code (beware its ugly)
